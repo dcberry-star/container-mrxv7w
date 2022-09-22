@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dcberry-star",
+  "repo": "container-mrxv7w",
+  "name": "dcberry-star",
+}
